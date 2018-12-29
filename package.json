@@ -1,6 +1,6 @@
 {
   "name": "laravel-wine",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Wine configuration for laravel",
   "main": "wine",
   "scripts": {
@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/Iainmon/laravel-wine#readme",
   "dependencies": {
-    "fs": "0.0.1-security"
+    "fs": "0.0.1-security",
+    "grapejuice": "0.0.0"
   }
 }

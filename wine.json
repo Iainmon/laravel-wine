@@ -1,0 +1,6 @@
+{
+  "wine":{
+    "printCommands":true,
+    "wineryfile" : "./winery/winery.js"
+  }
+}
