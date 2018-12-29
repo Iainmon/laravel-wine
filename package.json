@@ -1,6 +1,6 @@
 {
   "name": "laravel-wine",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Wine configuration for laravel",
   "main": "wine",
   "scripts": {
@@ -16,7 +16,8 @@
     "winery",
     "grapejuice",
     "grape-juice",
-    "cli"
+    "cli",
+    "laravel-wine"
   ],
   "author": "Iain Moncrief",
   "license": "ISC",
