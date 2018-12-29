@@ -1,0 +1,30 @@
+{
+  "name": "laravel-wine",
+  "version": "1.0.1",
+  "description": "Wine configuration for laravel",
+  "main": "wine",
+  "scripts": {
+    "test": "node wine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iainmon/laravel-wine.git"
+  },
+  "keywords": [
+    "wine",
+    "laravel",
+    "winery",
+    "grapejuice",
+    "grape-juice",
+    "cli"
+  ],
+  "author": "Iain Moncrief",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iainmon/laravel-wine/issues"
+  },
+  "homepage": "https://github.com/Iainmon/laravel-wine#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
